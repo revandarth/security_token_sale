@@ -1,0 +1,1 @@
+ganache-cli -d --db /app/ganache_data -i 344 --accounts 20 --deterministic --mnemonic="myth like bonus scare over problem client lizard pioneer submit female collect" 2>&1 > /app/ganache/logs/ganache-output-$(date +%Y-%m-%d-%H:%M:%S).log &

@@ -1,0 +1,18 @@
+{
+  "name": "bcat_mvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle-hdwallet-provider": "^1.0.0-web3one.5"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "2.1.2"
+  }
+}
